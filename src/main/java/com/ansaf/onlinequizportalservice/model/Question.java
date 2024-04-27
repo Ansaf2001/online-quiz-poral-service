@@ -1,7 +1,5 @@
 package com.ansaf.onlinequizportalservice.model;
 
-
-
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import lombok.Getter;
